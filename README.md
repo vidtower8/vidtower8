@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 
 <!---
-vidtower8/vidtower8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dizipal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://vidtower8.blogspot.com">Vidtower</a> kurulus dramas With this site we aim to provide frequently updated and high quality videos you can watch with your family and friends...
-https://vidtower8.blogspot.com
+
+<a href="https://www.dizipal1.tk/">Dizipal</a> Watch
